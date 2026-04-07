@@ -20,6 +20,17 @@ This project demonstrates **API Testing** performed using the **Simple Book API*
 
 Simple Book API
 
+
+## 🔗 Postman Collection
+
+You can directly access and run the API collection using the link below:
+
+👉 **Postman Collection Link:**
+https://web.postman.co/workspace/QA-Workspace~0345abba-7311-4edc-ba3b-e3a65b8a9290/collection/27060364-90fe92ef-6e3e-428a-9b50-146565579c49?action=share&source=copy-link&creator=27060364
+
+This collection contains all API requests including authentication, book retrieval, order creation, and validation test scripts.
+
+
 ---
 
 ## 🧪 APIs Tested
